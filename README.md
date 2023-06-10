@@ -3,6 +3,9 @@
 ## Description
 This is a functional work day scheduler that will save your events upon clicking the button, as well as being color coded to differentiate between past present and future hours.
 
+![Screenshot (51)](https://github.com/trentstanley92/Work-Day-Scheduler-Trent-Stanley/assets/128270132/5ec001bd-6e15-4309-a027-7b206246e408)
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
